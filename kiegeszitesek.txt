@@ -1,0 +1,4 @@
+- Minden jatekos a listan nev szerint egyedi
+- Leaderboard uj fuggvenye: getPlayer(Player): *Leaderboard_item
+
+- Position konstruktoraval kiegeszitve a class diagrammon
